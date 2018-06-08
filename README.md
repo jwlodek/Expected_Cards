@@ -22,6 +22,7 @@ No additional arguments: finds expected value at the start of the game.
 -h or --help flag: prints help message
 Two integer arguments: passes a starting configuration of the players hand,
 and finds expected value for said starting configuration.
+
 ---------------------------------
 
 ## Method:
