@@ -1,4 +1,4 @@
-# Card Color Gambling Game README
+# Card Color Game README
 ### Author: Jakub Wlodek
 ### April 2018
 
