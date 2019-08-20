@@ -1,9 +1,8 @@
-# Card Color Game README
-### Author: Jakub Wlodek
-### April 2018
+# Card Color Game
+Author: Jakub Wlodek  
+April 2018  
 
-## Running ExpectedCards.java
---------------------------------
+### Running ExpectedCards.java
 To run the program, simply compile with:
 
 ```
@@ -23,9 +22,8 @@ No additional arguments: finds expected value at the start of the game.
 Two integer arguments: passes a starting configuration of the players hand,
 and finds expected value for said starting configuration.
 
----------------------------------
 
-## Method:
+### Method:
 
 My initial method I decided to use was a recursive method, that calculates
 each previous expected value working back from the final position, with the base 
